@@ -79,7 +79,6 @@ span{
 }
 
 .row-wrapper{
-	position: relative;
 	padding: 0 20px 0 72px;
 	max-width: 1040px;
 	min-width: 820px;
@@ -185,7 +184,7 @@ span{
 .s-p-icon{
 	display: block;
 	width: 32px;
-	height: 50px;
+	height: 45px;
 	background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAvCAYAAAD0FnqqAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAzVJREFUWIXt109sk3Ucx/H371lHRze6GcOGycy2DpxAOEiZBzlMOQyT1mlIBAmK6MWocAAO3o1HF2MgKgIRIrEgBONWSBQmjM4EGHZmdUpx0hIYyiDT1nXd2u75emg3hfE8NsvaA3k+p+f55fv8Xr8/T355HiVRt1DyMNR+Q1Hyx2swEUIrjjYzFmzBFmzBFvygwyJFhnWdG+++R3T7DiSdLg4sqRSRt97mL7+fxA9BBl/dgp5IFBaejMX5dcNGxiNRmk508ri/A30sSfiFdaSHhwsDp4aGCLc9j+Zw0HT8GKULF1JSWcmSIz7sDQ1c9jzH+ODg3MLJgZ+57PFSvspN48HP0MrL/+3Absf1yUc85PUQ9rYxerE3P1mibpHrrWKUWPc56Vv8mNx8v11E1w3rRERufbpXgvUuGen0Gxf9vkUk6hZT+M6XRyVY1yB3fIdNwf9mpNMvwXqX3Nq7b3Zwor9f+hqXSOy7M3mjU/n7wkX5sWmpxM52G8I2oy1wrFjB8p4ApYtqOH36FLqu09q61nTbenoCxGIxPB4vy7rPUFpdbVhr+nKVLqrJddhDIBAwRQF6e3vp6urKPltTA0rNDi5kLLhoMXyr782VK2F8Pp9pTSgUoqqqau5gl8tFOBymo+Pr/61tbm7OC1bWb6oFW/B0MjcgHZn143kfINOZGID4QRg7m72fvxqcr0DZygLByQDEP4fxPkAAUiA6yUAZyQDYl4NzMzieIZ+FNIclA4mTED8E6au5NhlB8TFSspt5eoY0bwJbmRio5vY7YKsF5yaoaANlN+z6/ieXnoDRYxA/DJO3cyC/oeQD7JkD6pH+u77gJdJShhrdBOwElgKgVcGCF8G5IXs9ldzJdTc8OQzxL2D0qyyeneH3QDv1jR1KHZ00XSBBI+p+FtiJYk12anao8ILzZbA9eg+sVcD8Fhj7FiQNgg5yHGhXDcHzptthNIjIqidAdoC8hFI20MDxNKTCkBnKwdPVJID9aOpDVXfp6mzAGQO4/mQtmcw2lHoDqJxqz8LCTWAXWmqPqgv9ORfgjAH88tQCHOOvI2o7UIdcc2+Wn5bNKwR23wFIi02urVz/D/BKWRO9eTdIAAAAAElFTkSuQmCC");
 	background-repeat: no-repeat;	
 }
@@ -302,7 +301,6 @@ span{
 
 .mailbox-wrapper{
 	display: none;
-	/*position: relative;*/
 	background-color: #e0e9f9;
 	line-height: 27px;
 	height: 28px;
